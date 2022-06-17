@@ -2,6 +2,8 @@
 
 🔭 A computer science students from Malaysia. Very interested in web development and Web 3.0 📫
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakhrulRadziCode)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FakhrulRadziCode/FakhrulRadziCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
