@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 A computer science students from Malaysia. Very interested in web development and web accessibility.
-🎓 Currently I'm studying for a Bachelor's Degree in IT, but I'm focusing on self learning in web development.
+
+🎓 I'm currently studying for a Bachelor's Degree in IT, but I'm focusing on self learning in web development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakhrulRadziCode&theme=github_dark&show_icons=true)
 
