@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup 👋
 
 🔭 A computer science students from Malaysia. Very interested in web development and web accessibility.
 
